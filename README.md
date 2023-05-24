@@ -9,8 +9,7 @@ CKA and Software Engineering ^W Tinkering.
 
 - Web: [f.ederi.co](https://f.ederi.co)
 - Blog: [recollir.dev](https://recollir.dev)
-- Mastodon: <a rel="me" href="https://home.social/@recollir">home.social/@recollir</a>
-- Twitter: [twitter.com/recollir](https://twitter.com/recollir)
+- Mastodon: <a rel="me" href="https://mountains.social/@recollir">mountains.social/@recollir</a>
 
 <!--
 **recollir/recollir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
