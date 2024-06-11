@@ -8,7 +8,6 @@ CKA and Software Engineering ^W Tinkering.
 ### Get in touch
 
 - Web: [f.ederi.co](https://f.ederi.co)
-- Blog: [recollir.dev](https://recollir.dev)
 - Mastodon: <a rel="me" href="https://mountains.social/@recollir">mountains.social/@recollir</a>
 
 <!--
