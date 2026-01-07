@@ -5,11 +5,6 @@ My name is Federico.
 Trail running. No Big Deal.  
 CKA and Software Engineering ^W Tinkering.
 
-### Get in touch
-
-- Web: [f.ederi.co](https://f.ederi.co)
-- Mastodon: <a rel="me" href="https://mountains.social/@recollir">mountains.social/@recollir</a>
-
 <!--
 **recollir/recollir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
